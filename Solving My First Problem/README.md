@@ -1,4 +1,4 @@
-### I solved my first LeetCode problem in first try!
+### I solved my first LeetCode problem!
 
 # Intuition
 To solve this problem, my first thought was to focus on a straightforward arithmetic operation. I wanted to keep it short and simple.
