@@ -14,15 +14,12 @@ The time complexity is constant since the addition operation takes a constant am
 The space complexity is also constant because no additional space is required beyond the input variables.
 
 # Code
-'''
+```python
 class Solution:
     def sum(self, num1: int, num2: int) -> int:
         return num1 + num2
-'''
+```
 
+---
 
-
-Code
-class Solution:
-    def sum(self, num1: int, num2: int) -> int:
-        return num1 + num2
+Feel free to adjust or add anything based on your personal experience with the problem!
