@@ -17,7 +17,7 @@ The space complexity is also constant because no additional space is required be
 ```python
 class Solution:
     def sum(self, num1: int, num2: int) -> int:
-        return num1 + num2
+        return(num1 + num2)
 ```
 
 ---
