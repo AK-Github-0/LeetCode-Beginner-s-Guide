@@ -1,10 +1,7 @@
 ### I solved my first LeetCode problem!
 
-# Intuition
-To solve this problem, my first thought was to focus on a straightforward arithmetic operation. I wanted to keep it short and simple.
-
 # Approach
-The approach to solving this problem is simple as I wanted. Given two integers, we need to return their sum. Therefore, the function will directly return the sum of the two input integers.
+The approach to solving this problem is as simple as I wanted. Given two integers, we need to return their sum. Therefore, the function will directly return the sum of the two input integers.
 
 # Complexity
 ## Time complexity: O(1)
