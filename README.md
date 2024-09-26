@@ -1,6 +1,6 @@
 # LeetCode-Beginner-s-Guide
 Introduction
-Welcome to The LeetCode Beginner's Guide! This guide is intended for new users of all experience levels and will help you become familiar with the LeetCode platform.
+Welcome to The LeetCode Beginner's Guide! This guide is for new users of all experience levels and will help you become familiar with the LeetCode platform.
 
 On LeetCode, you can use tutorials and study plans to learn fundamental and advanced data structures and algorithms, compete in contests, use guides to prepare for top companies, exercise your problem solving skills by solving real interview questions, and much more.
 
