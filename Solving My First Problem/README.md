@@ -17,6 +17,4 @@ class Solution:
         return(num1 + num2)
 ```
 
----
 
-Feel free to adjust or add anything based on your personal experience with the problem!
