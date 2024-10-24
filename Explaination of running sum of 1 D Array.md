@@ -1,7 +1,3 @@
-Great work on solving the problem! Here's a polished version of the template for your submission:
-
----
-
 # Intuition
 The goal of the problem is to calculate a running sum of the input list. This can be done efficiently by iterating over the list once and maintaining a cumulative sum.
 
@@ -33,6 +29,3 @@ class Solution(object):
         return l
 ```
 
----
-
-This format is clear and concise for LeetCode submissions. Good luck!
