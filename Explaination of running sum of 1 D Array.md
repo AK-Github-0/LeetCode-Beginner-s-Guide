@@ -1,5 +1,5 @@
 # Intuition
-The goal of the problem is to calculate a running sum of the input list. This can be done efficiently by iterating over the list once and maintaining a cumulative sum.
+The goal of the problem is to calculate a running sum of the input list. This can be done efficiently by quickly and easily over the list once and maintaining a cumulative sum.
 
 # Approach
 - Initialize a variable `num` to store the cumulative sum.
